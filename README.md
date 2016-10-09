@@ -3,7 +3,7 @@ GNU General Public License v3.0
 
 ----------
 
-Documentos e trabalhos referentes às disciplinas do Programa de Pós-Graduação em Engenharia Elétrica (PPGEE) da UFMG cursadas ou em curso pelo aluno Tiago Ferreira (http://lattes.cnpq.br/2756879201144419)
+Documentos e trabalhos referentes às disciplinas do Programa de Pós-Graduação em Engenharia Elétrica da UFMG (PPGEE-UFMG) cursadas ou em curso pelo aluno Tiago Ferreira (http://lattes.cnpq.br/2756879201144419)
 
 ----------
 
