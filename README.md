@@ -1,4 +1,8 @@
 # PPGEE-UFMG
+GNU General Public License v3.0
+
+----------
+
 Documentos referentes às disciplinas do PPGEE-UFMG cursadas ou em curso pelo aluno Tiago Ferreira (http://lattes.cnpq.br/2756879201144419)
 
 ----------
