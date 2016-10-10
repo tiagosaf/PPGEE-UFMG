@@ -1,4 +1,4 @@
-# PPGEE-UFMG
+# EEE933 / EC03
 GNU General Public License v3.0
 
 ----------
